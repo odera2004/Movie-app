@@ -27,7 +27,7 @@ Our solution is a website that allows users to browse and watch movies without a
 
 
 ## Installation
-You use git clone to be able to download the documents in the GitHub
+You use git clone to be able to download the documents in the GitHub .!!!
 
 ## Installation Requirements
 Git
