@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.NavBar img{
+  max-height: 100px;
+  max-width: 100px;
+  padding-right: 800px;
+}
+.NavBar nav{
+  padding-left: 20px;
+}
+
