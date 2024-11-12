@@ -52,7 +52,7 @@ React
 
 ## Support and contact details
 github.com/Rjamez
-github.com/zeff-254
+github.com/zeff254
 github.com/odera2004
 
 ### License
